@@ -1,0 +1,40 @@
+.banner
+{
+	background-image: url("./emlv.jpg");
+	width:
+}
+
+.banner h1
+{
+	color:  black;
+	font-size: 50px;
+
+}
+
+.banner h2
+{
+	color: whitesmoke;
+	margin-right: 700px;
+}
+
+
+button
+{
+	background-color: blueviolet;
+	font-family: Georgia, sans-serif;
+	color: whitesmoke;
+	margin-right: 700px;
+	width: 100px;
+
+}
+
+img
+{
+	width: 150px;
+}
+
+h1
+{
+	font-family: monospace;
+	color: blueviolet;
+}
